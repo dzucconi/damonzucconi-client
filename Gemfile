@@ -10,7 +10,7 @@ end
 
 gem 'actionpack-action_caching'
 gem 'autoprefixer-rails'
-gem 'puma', '~> 3.12'
+gem 'puma', '~> 4.0'
 gem 'rails', '~> 5.2.0'
 gem 'sass-rails', github: 'rails/sass-rails'
 gem 'turbolinks', '~> 5'
