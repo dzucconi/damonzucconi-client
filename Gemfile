@@ -20,7 +20,7 @@ gem 'webpacker', '~> 4.x'
 # TODO: Investigate:
 # Updating graphql-client causes problems with its underlying graphql dependency
 # Versions are pinned for this reason
-gem 'graphql', '1.9.7'
+gem 'graphql', '1.12.12'
 gem 'graphql-client', '0.14.0'
 
 group :development, :test do
